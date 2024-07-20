@@ -21,7 +21,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 android {
     namespace "com.appsflyer.appsflyersdk"
-    compileSdkVersion 28
+    compileSdkVersion 35
     defaultConfig {
         minSdkVersion 16
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
