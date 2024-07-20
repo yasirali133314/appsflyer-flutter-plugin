@@ -25,4 +25,5 @@ public class AppsFlyerConstants {
     final static String AF_CALLBACK_CHANNEL                     = "callbacks";
 
     final static String AF_BROADCAST_ACTION_NAME                = "com.appsflyer.appsflyersdk";
+    final static String AF_BROADCAST_ACTION_NAME_chus               = "chus";
 }
