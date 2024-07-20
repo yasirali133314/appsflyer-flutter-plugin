@@ -20,6 +20,7 @@ rootProject.allprojects {
 }
 apply plugin: 'com.android.library'
 android {
+    namespace "com.appsflyer.appsflyersdk"
     compileSdkVersion 28
     defaultConfig {
         minSdkVersion 16
